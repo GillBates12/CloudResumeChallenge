@@ -1,0 +1,45 @@
+body {
+  font-family: sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-size: 24px;
+}
+
+h3,
+h4,
+h5 {
+  font-size: 18px;
+}
+
+.name {
+  color: red;
+}
+
+.education-header,
+.certification-header,
+.experience-header,
+.skills-header {
+  color: blue;
+}
+
+.education-list,
+.certification-list,
+.experience-list,
+.skills-list {
+  padding-left: 20px;
+}
+
+.job-duty {
+  margin-bottom: 10px;
+}
+
+footer {
+  text-align: center;
+  font-size: 12px;
+}
